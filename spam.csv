@@ -1,0 +1,11 @@
+has_link,has_offer,has_free,spam
+false,true,false,true
+true,false,true,false
+false,false,true,true
+false,false,false,true
+true,true,false,true
+false,false,false,true
+false,true,true,false
+false,true,false,true
+true,true,false,false
+false,true,true,true
